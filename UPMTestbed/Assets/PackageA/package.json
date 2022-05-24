@@ -3,12 +3,5 @@
   "version": "0.0.1",
   "displayName": "TestPackage A",
   "description": "This is a test package",
-  "unity": "2020.3",
-  "dependencies": {
-  },
-  "author": {
-    "name": "girnagatome",
-    "email": "",
-    "url": "https://www.unity3d.com"
-  }
+  "unity": "2020.3"
 }
