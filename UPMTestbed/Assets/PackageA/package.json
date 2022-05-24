@@ -1,0 +1,7 @@
+﻿{
+  "name": "aiming.rnagatome.package-a",
+  "version": "0.0.1",
+  "displayName": "TestPackage A",
+  "description": "This is a test package",
+  "unity": "2020.3"
+}
