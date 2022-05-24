@@ -1,3 +1,14 @@
 {
-	"name": "aiming.rnagatome.TestPackageA"
+    "name": "aiming.rnagatome.package-a",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
